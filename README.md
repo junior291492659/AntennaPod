@@ -1,9 +1,10 @@
 # AntennaPod
 
 ## List of Cases
-Issue Id | App | App version | Bug Data (report, code, data) | Reproducible? | Network? | Login? | Permission? | Setting? | Note
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-1 | *[Antennapod](https://github.com/AntennaPod/AntennaPod)* | 1.8.3 | [#4414](https://github.com/AntennaPod/AntennaPod/issues/4414), [code](), [data]() | | no | no | no | no | Medium
+Issue Id | App | App version | Bug Data (report, code, data) | Reproducible? |  Note
+--- | --- | --- | --- | --- | --- |
+1 | *[Antennapod](https://github.com/AntennaPod/AntennaPod)* | 1.8.3 | [#4279](https://github.com/AntennaPod/AntennaPod/issues/4279), [code](), [data]() |  no | no | no | no | Medium
+1 | *[Antennapod](https://github.com/AntennaPod/AntennaPod)* | 1.8.3 | [#4414](https://github.com/AntennaPod/AntennaPod/issues/4414), [code](), [data]() |  no | no | no | no | Medium
 
 This is the official repository of AntennaPod, the easy-to-use, flexible and open-source podcast manager for Android.
 
