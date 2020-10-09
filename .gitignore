@@ -2,6 +2,9 @@
 *.apk
 *.ap_
 
+# modified by Ljx
+!data/*.apk
+
 # files for the dex VM
 *.dex
 
